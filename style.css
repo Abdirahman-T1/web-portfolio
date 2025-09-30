@@ -26,7 +26,8 @@ body {
 }
 
 .container2 {
-  max-width: 50%;
+  width: 100%;
+  max-width: 800px;
   margin: 0 auto;
   padding: 30px 20px;
   background-color: #ffffffa1;
@@ -90,3 +91,4 @@ body {
 #coding-languages img:hover {
   transform: scale(1.1);
 }
+
